@@ -1,0 +1,109 @@
+
+@media screen and (max-width: 767px){
+    .hero{
+        left: 50%;
+        width: 100%;
+    }
+    .hero h1{
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+    .hero h3{
+        font-size: 15px;
+    }
+    .middle_2{
+        position: static;
+    }
+    .section_2{
+        position: static;
+        width: 100%;
+    }
+    .section_4{
+        position: static;
+        width: 100%;
+    }
+    .section_6{
+        position: static;
+        width: 100%;
+    }
+    .section_8{
+        position: static;
+        width: 100%;
+    }
+    #review{
+        text-align: center;
+    }
+    .section_10{
+        padding-top: 40px;
+    }
+    .box1{
+        padding: 10px;
+    }
+    .box1 h2{
+        font-size: 35px;
+    }
+    .hr_3{
+        width: 100%;
+    }
+    .hr_4{
+        width: 100%;
+    }
+    .section_11{
+        text-align: center;
+    }
+    .section_12 img{
+        padding-top: 20px;
+    }
+    .img_responsive6{
+        width: 100%;
+    }
+    #bgblue{
+        text-align: center;
+    }
+    #image_fixed{
+        text-align: center;
+    }
+    .image_color{
+        padding-top: 30px;
+        padding-bottom:  30px;
+    }
+    .text7 h1{
+        font-size: 50px;
+        padding-bottom: 10px;
+    }
+    .main_box{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .main_box2{
+        position: static;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .main_box1{
+        text-align: center;
+    }
+    .main_box4{
+        position: static;
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    #footer{
+        text-align: center;
+    }
+    .footer_3{
+        text-align: center;
+    }
+    #footer_main{
+        padding-top: 8px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+}
+
+@media (width: 360px) {}
+@media (width: 375px) {}
+@media (width: 390px) {}
+@media (width: 414px) {}
+@media (width: 768px) {}
+@media (width: 430px) {}
